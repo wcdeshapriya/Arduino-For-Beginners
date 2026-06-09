@@ -126,7 +126,7 @@ Visit the official course website:
 තොරතුරු ලබාගැනීම සඳහා අමතන්න.
 Call / WhatsApp: 0713480683
 
-පහත WhatsApp group එකට සම්බන්ධ වන්න:
+Robotechlanka WhatsApp group එකට සම්බන්ධ වන්න:
 📱 WhatsApp Group
 
 <img width="120" height="130" alt="image" src="https://github.com/user-attachments/assets/62ae10dc-f6eb-4852-a1db-8115996c9042" />
