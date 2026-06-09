@@ -89,7 +89,7 @@ Visit the official course website:
 
 ## 👨‍🏫 Author
 
-**Chandana Deshapriya**
+**Chandana Deshapriya**:
 Lecturer | Software Engineer | IoT Consultant
 
 ---
