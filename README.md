@@ -39,37 +39,49 @@ https://sites.google.com/view/robotechlanka/home
 * Arduino IDE Setup
 * Arduino Software Structure
 
-### Module 3: Arduino Basic Programming
+### Module 3: Arduino Basic (output) Programming
 
 * Digital Output – LED Blinking (Part 1)
 * Digital Output – LED Blinking (Part 2)
-* Digital Input – Push Button and Switch Control
 
-### Module 4: Arduino Core Programming
+### Module 4: Arduino Basic (input) Programming
+
+* Digital Input – Push Button
+* Digital Input - Switch Control 
+
+### Module 5: Arduino Core (analog) Programming
   
 * Analog Output
 * Analog Input
-* Play Tone
+  
+### Module 6: Arduino Communication   
 * Serial Communication
-
-### Module 5: Sensors for Arduino 
+* one wire Communication
+  
+### Module 7: Sensors for Arduino 
 
  * LDR Sensors Module
  * IR Sensor Module
  * Temperature Sensor Module
  * Ultrasonic Sensor Module
 
-### Module 5: Display for Arduino 
+### Module 8: Display for Arduino 
 
  * 7 Segment Display Module
  * LCD Display Module
  * TFT Display Module  
 
-### 🔹 Motor Control
+### Module 9: Motor Control
 
  * DC Motor Control
  * Servo Motor Control
- * Stepper Motor Control  
+ * Stepper Motor Control
+   
+### Module 10: Robor Car Preparation  
+* Introduction to Robot Car structure
+* Build and assemble a 4WD (Four Wheel) robot car
+* Wiring and motor connection setup
+* Control using remote (IR / Bluetooth)
  
 ---
 
