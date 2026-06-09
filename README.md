@@ -122,6 +122,10 @@ After completing this course, learners will be able to:
 Visit the official course website:
 
 👉 https://sites.google.com/view/robotechlanka/home
+තොරතුරු ලබාගැනීම සඳහා අමතන්න.
+Call / WhatsApp: 0713480683
+පහත WhatsApp group එකට සම්බන්ධ වන්න:
+📱 WhatsApp Group
 
 ---
 
