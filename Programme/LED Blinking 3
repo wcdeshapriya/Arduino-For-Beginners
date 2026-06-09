@@ -1,0 +1,27 @@
+
+
+int led1=3;
+int led2=4;
+
+void setup (){
+pinMode(led1, OUTPUT);  // initialize digital pin 3 as an output.
+pinMode(led2, OUTPUT);  // initialize digital pin 4 as an output.
+}
+
+void loop() {    
+        digitalWrite(led1, HIGH);   // turn on LED1
+        delay(1000);              // wait for a second
+        digitalWrite(led1, LOW);    // turn off LED1 
+        delay(1000);              // wait for a second 
+        digitalWrite(led2, HIGH);   // turn on LED2 
+        delay(1000);              // wait for a second    
+        digitalWrite(led2, LOW);    // turn off LED2
+        delay(1000);
+
+
+        
+        
+} 
+
+
+    
