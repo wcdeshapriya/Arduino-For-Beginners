@@ -6,21 +6,21 @@ More info: https://sites.google.com/view/robotechlanka/home
 ⏰ ඔබට පහසු වේලාවක Online ලොග් වී සහභාගී විය හැක
 
 ## Course Modules
-1. Introduction to Robotics and IoT-
-2. Introduction to Arduino
-      2.1 Board structure 
-      2.2 Arduino software structure
-3. Arduino Basics Programming 
-       4.1 Scratch for Arduino
-       4.2 Digital LED Blinking output
-6. Arduino Boards
-7. IoT Projects
+1.	Introduction to Robotics and IoT
+2.	Introduction to Arduino
+2.1	Board structure 
+2.2	Arduino software structure
+
+3.	Arduino Basics Programming 
+3.1	Digital output - LED Blinking Part 1 
+3.2	Digital output - LED Blinking Part 2
+3.3	Digital input - Side switch and Push Button
 
 ## Tutorials
-- LED Blinking
-- Traffic Light System
-- Bluetooth Robot
-- Obstacle Avoidance Robot
+1.	LED Blinking
+2.	Traffic Light System
+3.	Bluetooth Robot
+4.	Obstacle Avoidance Robot
 
 ## Assessments
 - Module MCQs
