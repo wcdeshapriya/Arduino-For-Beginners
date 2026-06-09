@@ -45,6 +45,32 @@ https://sites.google.com/view/robotechlanka/home
 * Digital Output – LED Blinking (Part 2)
 * Digital Input – Push Button and Switch Control
 
+### Module 4: Arduino Core Programming
+  
+* Analog Output
+* Analog Input
+* Play Tone
+* Serial Communication
+
+### Module 5: Sensors for Arduino 
+
+ * LDR Sensors Module
+ * IR Sensor Module
+ * Temperature Sensor Module
+ * Ultrasonic Sensor Module
+
+### Module 5: Display for Arduino 
+
+ * 7 Segment Display Module
+ * LCD Display Module
+ * TFT Display Module  
+
+### 🔹 Motor Control
+
+ * DC Motor Control
+ * Servo Motor Control
+ * Stepper Motor Control  
+ 
 ---
 
 ## 🛠 Tutorials
