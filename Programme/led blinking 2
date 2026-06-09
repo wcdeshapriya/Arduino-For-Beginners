@@ -1,0 +1,19 @@
+
+void setup (){
+      pinMode(3,OUTPUT);   // initialize digital pin 3 as an output.
+      pinMode(4,OUTPUT);   // initialize digital pin 4 as an output.
+}
+
+void loop() {
+    digitalWrite(3,HIGH);   // turn the LED on (HIGH is the voltage level5V)
+    delay(1000);   
+    digitalWrite(3,LOW);   // turn the LED off (LOW is the voltage level0V)
+    delay(1000);
+    digitalWrite(4,HIGH);   // turn the LED on (HIGH is the voltage level5V)
+    delay(1000);   
+    digitalWrite(4,LOW);   // turn the LED off (LOW is the voltage level0V)
+    delay(1000);
+} 
+
+
+    
